@@ -1,7 +1,10 @@
+import Hi from "./components/hi";
+
 function App() {
     return (
         <div className="App">
-      </div>
+            <Hi />
+        </div>
     );
   }
   
